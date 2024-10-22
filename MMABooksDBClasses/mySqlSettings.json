@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "mySql": "server=127.0.0.1;port=3305;uid=root;pwd=SQLTsu1!;database=mmabooks"
+  }
+}
